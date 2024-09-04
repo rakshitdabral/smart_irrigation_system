@@ -8,6 +8,5 @@ uvicorn
 gunicorn==19.9.0
 uvloop
 httptools
-tensorflow==2.10.1
 seaborn==0.13.2
 scikit-learn==1.5.1
